@@ -6,6 +6,6 @@
 vim $PROFILE
 ```
 
-```properties
+```powershell
 oh-my-posh init pwsh --config $env:USERPROFILE\.ohmyposh\zen.toml | Invoke-Expression
 ```
