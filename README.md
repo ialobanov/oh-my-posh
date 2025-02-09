@@ -17,7 +17,7 @@ mkdir .ohmyposh
 ```
 
 ```powershell
-vim ~\.ohmyposh\zen.toml
+vim .ohmyposh\zen.toml
 ```
 
 ```toml
