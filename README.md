@@ -74,6 +74,7 @@ final_space = true
 
       [blocks.segments.properties]
         threshold = 5000
+        style = 'round'
 
 [[blocks]]
   type = 'prompt'
